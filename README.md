@@ -1,4 +1,4 @@
 ## SQL
 
 
-## This repository contains all my project excercises using POstgresql
+## This repository contains all my project excercises using Postgresql
